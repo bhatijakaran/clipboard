@@ -1,0 +1,129 @@
+
+body{
+  background-image: url("../images/bg-header-desktop.png");
+  background-repeat: no-repeat;
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 18px;
+}
+.top{
+  text-align: center;
+  margin-top: 8%;
+  width:50%;
+  margin: 8% auto 0 auto;
+}
+.topdesc{
+  font-weight: 600;
+  font-size: 2rem;
+}
+.topdescsub{
+  color: hsl(171, 66%, 44%);
+}
+.topdesone{
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.btnformat{
+  color: white;
+  background-color: hsl(201, 11%, 66%);
+  height: 45px;
+  width: 180px;
+  border-radius: 30px;
+}
+.btnformatblu{
+  color: white;
+  background-color: hsl(233, 100%, 69%);
+  height: 45px;
+  width: 180px;
+  border-radius: 30px;
+}
+.middle{
+  text-align: center;
+  width: 50%;
+  margin: 8% auto 0 auto;
+}
+.middleone{
+  margin-top: 5%;
+}
+.midpartone{
+  display:inline-block;
+  width: 50%;
+  float: left;
+}
+.imgwidth{
+  width: 85%;
+}
+.space{
+  margin-top: 10%;
+}
+.midparttwo{
+  display: inline-block;
+  width: 50%;
+}
+.bottomone{
+  text-align: center;
+  width: 50%;
+  margin: 8% auto 0 auto;
+}
+.bottomtwo{
+  text-align: center;
+  width: 50%;
+  margin: 8% auto 0 auto;
+}
+.bottomthree{
+  text-align: center;
+  width: 50%;
+  margin: 3% auto 0 auto;
+}
+.footerone{
+  margin-top: 5%;
+  text-align: center;
+}
+.subformat{
+  width:33%;
+  display: inline-block;
+}
+.footerbrand{
+  margin-top: 5%;
+}
+.brandlayout{
+  display:inline-block;
+  margin-left: 7%;
+}
+.footerfinal{
+  text-align: center;
+  width: 50%;
+  margin: 5% auto 0 auto;
+}
+.footer{
+  margin-top: 5%;
+  
+  color: hsl(171, 66%, 44%);
+}
+.footlayicon{
+  display: inline-block;
+  width:15%;
+  margin-left: 24%;
+}
+.footlaylogo{
+  display: inline-block;
+  padding-left: 5%;
+}
+.footlay{
+  display: inline-block;
+  width:15%;
+}
+.listlay{
+  list-style: none;
+}
+.try{
+position: relative;
+bottom: 20px;
+}
+
+.logosize{
+  width: 25%;
+  height: 25%;
+}
+.iconspace{
+  margin-left: 10%;
+}
